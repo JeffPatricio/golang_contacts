@@ -1,7 +1,7 @@
 # Contacts (Golang)
 A simple REST API for studies made in *Golang* simulating a basic contact crud.
 
-## Endpoints
+## Structure
 
 ```
 Contact {
@@ -15,6 +15,7 @@ Contact {
 }
 ```
 
+## Endpoints
 
 - (GET) contacts
 
